@@ -1,0 +1,51 @@
+
+body {
+    background-color: #e5f4f9
+    }
+
+h1, h2, h4{
+    font-family: 'Courgette',
+    cursive;
+}
+
+img{
+
+height: 300px;
+}
+
+p{
+    font-family: "Times New Roman",
+    Times,
+    serif;
+}
+.quote{
+    display: inline-block;
+    text-align: center;
+    width: 534px;
+}
+
+
+
+.red{
+    color: red;
+}
+
+.blue{
+    color: blue;
+}
+
+.redb{ 
+    font-weight: bold;
+    color: red;
+   
+}
+.hotels{
+
+        font-weight: bold;
+        color: red;
+}
+
+.hotels:hover{
+ color: green;
+
+}
